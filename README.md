@@ -1,4 +1,4 @@
-# px-toggle [![Build Status](https://travis-ci.org/PredixDev/px-toggle.svg?branch=master)](https://travis-ci.org/PredixDev/px-toggle)
+# px-toggle [![Build Status](https://travis-ci.org/predixdesignsystem/px-toggle.svg?branch=master)](https://travis-ci.org/predixdesignsystem/px-toggle)
 
 ## Overview
 
